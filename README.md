@@ -1,2 +1,2 @@
 # Next.Js---Projects
-Projects at the beginner level in Next.js that will facilitate the enhancement of my skills.
+Engaging in beginner-level projects using Next.js will enhance my skills and understanding of the framework.
